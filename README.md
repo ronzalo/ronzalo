@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+
+## 📊 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronzalo&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ronzalo&theme=dark)
 
 <!--
 **ronzalo/ronzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
